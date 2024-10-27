@@ -1,7 +1,9 @@
 # Terms
 Repository(Repo):là một kho là thư mục dự án 
 branch
-conflit: xung dot
+conflit: 
+local:
+remote:
 
 # Commands
 
@@ -17,3 +19,4 @@ conflit: xung dot
 - git checkout -b{name branch}
 - git merge {name branch}
 - git branch -d{name branch}
+- git push
