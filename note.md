@@ -1,6 +1,7 @@
 # Terms
 Repository(Repo):là một kho là thư mục dự án 
 branch
+conflit: xung dot
 
 # Commands
 
@@ -14,3 +15,5 @@ branch
 - git checkout{branch name}
 - git branch
 - git checkout -b{name branch}
+- git merge {name branch}
+- git branch -d{name branch}
